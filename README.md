@@ -24,8 +24,3 @@ So, whether you’re trying to win work, list your services or even create a who
 
 Regular communication is really important to me 🥰
 So let’s keep in touch 😎
-
-<!---
-ladinasedera/ladinasedera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
