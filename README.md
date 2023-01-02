@@ -12,13 +12,13 @@ Plus :
 
 Here are my preferred technologies:
 
-💞 PHP: Laravel, Symfony, Slim & Codeigniter
-💜 CMS: WordPress & PrestaShop.
-🧡 Node: ExpressJS, NestJS & AdonisJS.
-❣️ SQL : MySQL, MariaDB  & PostgreSQL.
-💖 NoSQL : MongoDB.
-❤️ Frontend : VueJS, Vuetify, Bootstrap.
-🤩 All about PHP & JavaScript/TypeScript..
+- 💞 PHP: Laravel, Symfony, Slim & Codeigniter
+- 💜 CMS: WordPress & PrestaShop.
+- 🧡 Node: ExpressJS, NestJS & AdonisJS.
+- ❣️ SQL : MySQL, MariaDB  & PostgreSQL.
+- 💖 NoSQL : MongoDB.
+- ❤️ Frontend : VueJS, Vuetify, Bootstrap.
+- 🤩 All about PHP & JavaScript/TypeScript..
 
 So, whether you’re trying to win work, list your services or even create a whole online store – I can help!
 
