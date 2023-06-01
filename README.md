@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ladinasedera
 - 👀 I’m interested in web and mobile development - PHP & NodeJS
 - 💞️ I’m looking to collaborate on full stack web development - Preferred Backend
-- 📫 Contact me at ladina.sedera@gmail.com
+- 📫 Contact me at [ladina.sedera@gmail.com](https://www.linkedin.com/in/ladinasederadev/)
 
 Plus : 
 - 👉 6+ years experience in PHP development
