@@ -4,12 +4,12 @@
 - 📫 Contact me at [ladina.sedera@gmail.com](https://www.linkedin.com/in/ladinasederadev/)
 
 Plus : 
-- 👉 6+ years experience in PHP development
-- 👉 5+ years experience with laravel,symfony,codeigniter,slim development
-- 👉 6+ years experience with Html, CSS,JavaScript(jQuery)
+- 👉 8+ years experience in PHP development
+- 👉 7+ years experience with laravel,symfony,codeigniter,slim development
+- 👉 8+ years experience with Html, CSS,JavaScript(jQuery)
 - 👉 4+ years experience with VueJS
-- 👉 3+ years experience in NodeJS (ExpressJS & NestJS) development
-- 👉 2+ years experience mobile development(java & hybrid - IONIC)
+- 👉 4+ years experience in NodeJS (ExpressJS & NestJS) development
+- 👉 3+ years experience mobile development(java & hybrid - IONIC)
 
 
 Here are my preferred technologies:
