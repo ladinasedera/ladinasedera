@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ladinasedera
+- 🥰 Husband, Father of Three - Full Stack Developer
 - 👀 I’m interested in web and mobile development - PHP & NodeJS
 - 💞️ I’m looking to collaborate on full stack web development - Preferred Backend
-- 📫 Contact me at [ladina.sedera@gmail.com](https://www.linkedin.com/in/ladinasederadev/)
+- 📫 Contact me at [ladina.sedera[at]gmail.com](https://www.linkedin.com/in/ladina-sedera)
 
 Plus : 
 - 👉 8+ years experience in PHP development
