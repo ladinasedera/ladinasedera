@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ladina Sedera
 - 👀 I’m interested in web development - PHP & JS
 - 💞️ I’m looking to collaborate on fullstack web development - preferred PHP Stack
-- 📫 Contact me on ladina.sedera@gmail.com
+- 📫 Contact me on ladina.sedera[at]gmail.com
 
 Experience : 
 - 👉 7+ years experience in PHP Stack (LAMP Stack) development
