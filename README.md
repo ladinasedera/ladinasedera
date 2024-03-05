@@ -12,7 +12,7 @@ Experience :
 
 My preferred technologies:
 
-- 💞 PHP: Laravel, Slim, Codeigniter & Symfony.
+- 💞 PHP: Laravel / Lumen, Symfony, Codeigniter & Slim.
 - 💜 CMS: WordPress & PrestaShop.
 - 🧡 Node: NestJS & ExpressJS.
 - ❣️ SQL : MySQL  & Postgres.
