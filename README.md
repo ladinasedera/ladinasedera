@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ladina Sedera
 - 👀 I’m interested in web development - PHP & JS
-- 💞️ I’m looking to collaborate on fullstack web development - preferred PHP Stack
+- 💞️ I’m looking to collaborate on fullstack web development
 - 📫 Contact me on ladina.sedera[at]gmail.com
 
 Experience : 
@@ -17,7 +17,7 @@ My preferred technologies:
 - 🧡 Node: NestJS & ExpressJS.
 - ❣️ SQL : MySQL  & Postgres.
 - 💖 NoSQL : MongoDB.
-- ❤️ Frontend : JS(VueJS / React, jQuery), Other(Bootstrap).
+- ❤️ Frontend : JS(VueJS / React, jQuery), Other(Tailwind / Bootstrap).
 - 🤩 All about PHP & JavaScript/TypeScript.
 
 - PHP Package : https://packagist.org/packages/ladina/
