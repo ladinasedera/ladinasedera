@@ -4,7 +4,7 @@
 - 📫 Contact me on ladina.sedera[at]gmail.com
 
 Experience : 
-- 👉 8+ years experience in PHP Stack (LAMP Stack) development
+- 👉 7+ years experience in PHP Stack (LAMP Stack) development
 - 👉 6+ years experience with Laravel development
 - 👉 5+ years experience with vueJS development
 - 👉 3+ years experience in NodeJS Stack development
