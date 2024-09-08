@@ -31,7 +31,6 @@ I am *skilled in writing clean, modular code*, with strong expertise in object-o
 
 **JavaScript**: ExpressJS, NestJS  
 **JS Frontend**: VueJS, jQuery  
-**CSS Frameworks**: Tailwind, Bootstrap  
-**GitHub**: [GitHub](https://github.com/ladinasedera)
+**CSS Frameworks**: Tailwind, Bootstrap, Vuetify
 
 🤩 **Enthusiastic** about PHP, JavaScript/TypeScript
