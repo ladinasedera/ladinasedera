@@ -1,33 +1,37 @@
-- 👋 Hi, I’m Ladina Sedera
-- 👀 I’m interested in web development - PHP & JS
-- 💞️ I’m looking to collaborate on fullstack web development
-- 📫 Contact me on ladina.sedera[at]gmail.com
+# 👋 Hi, I'm Ladina Sedera
 
-Experience : 
-- 👉 7+ years experience in PHP Stack (LAMP Stack) development
-- 👉 6+ years experience with Laravel development
-- 👉 5+ years experience with vueJS development
-- 👉 3+ years experience in NodeJS Stack development
-- 👉 2+ years experience mobile development
+## Professional Full Stack Web Developer
 
-My preferred technologies:
+💪 I can do all things through Christ, who strengthens me - Philippians 4:13.
 
-- 💞 PHP: Laravel / Lumen, Symfony, Codeigniter & Slim.
-- 💜 CMS: WordPress & PrestaShop.
-- 🧡 Node: NestJS & ExpressJS.
-- ❣️ SQL : MySQL  & Postgres.
-- 💖 NoSQL : MongoDB.
-- ❤️ Frontend : JS(VueJS / React, jQuery), Other(Tailwind / Bootstrap).
-- 🤩 All about PHP & JavaScript/TypeScript.
+💞️ **Passionate Web Developer** | Skilled in PHP & JavaScript | Laravel & Vue.js.
 
-- PHP Package : https://packagist.org/packages/ladina/
-- Pined repository : https://github.com/ladinasedera
+👀 **Open to Collaborating** on Innovative Full-Stack Projects.
 
-Cover: 
-- Love coding, testing, debugging, maintaining dynamic applications and APIs with experience in Object Oriented Programming and Database Management(No-SQL & SQL).
-- Whether you’re trying to win work, list your services or even create a whole online store – I can help!
+📫 **Contact Me**: [ladina.sedera[at]gmail.com](mailto:ladina.sedera@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ladina-sedera)
 
-PS : 
-- ✨ Regular communication is really important to me 🥰
+---
 
-So let’s keep in touch 😎
+## Resume
+
+**Full Stack Developer** with 7+ years of experience in designing, developing, and optimizing high-performance, user-centric web applications and APIs. *Specializing in modern PHP and JavaScript frameworks.*
+
+My focus is on building and delivering scalable, efficient, maintainable, and secure applications *that meet client needs and business goals.*
+
+I am *skilled in writing clean, modular code*, with strong expertise in object-oriented programming, SQL/NoSQL databases, and best practices for testing and debugging with a focus on maintainability to ensure robust, reliable, and scalable applications.
+
+---
+
+## Technical Expertise | Preferred Technologies
+
+**PHP**: Laravel, Symfony, CodeIgniter, Slim  
+**CMS**: WordPress, PrestaShop  
+**Database**: MySQL, PostgreSQL, MongoDB  
+**Packagist**: [PHP Packages](https://packagist.org/packages/ladina/)
+
+**JavaScript**: ExpressJS, NestJS  
+**JS Frontend**: VueJS, jQuery  
+**CSS Frameworks**: Tailwind, Bootstrap  
+**GitHub**: [GitHub](https://github.com/ladinasedera)
+
+🤩 **Enthusiastic** about PHP, JavaScript/TypeScript
