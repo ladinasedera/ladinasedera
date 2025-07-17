@@ -14,12 +14,15 @@
 
 ## Resume
 
-**Full Stack Developer** with 7+ years of experience in designing, developing, and optimizing high-performance, user-centric web applications and APIs. *Specializing in modern PHP and JavaScript frameworks.*
+Full-Stack Developer | 100% Quality Guarantee
+Expert in complete web/mobile & API development lifecycle from concept to deployment.
+I deliver high-performance applications using PHP & JS mostly with Laravel, Vue.js, WordPress & PrestaShop that drive real business results.
 
-My focus is on building and delivering scalable, efficient, maintainable, and secure applications *that meet client needs and business goals.*
-
-I am *skilled in writing clean, modular code*, with strong expertise in object-oriented programming, SQL/NoSQL databases, and best practices for testing and debugging with a focus on maintainability to ensure robust, reliable, and scalable applications.
-
+What I bring to your project:
+- Proven track record in dynamic web applications
+- Object-oriented programming mastery with clean, scalable code
+- Full lifecycle expertise - coding, testing, debugging, maintenance
+- Client-first approach ensuring satisfaction and long-term success
 ---
 
 ## Technical Expertise | Preferred Technologies
