@@ -15,6 +15,7 @@
 ## Resume
 
 Full-Stack Developer | 100% Quality Guarantee
+
 Expert in complete web/mobile & API development lifecycle from concept to deployment.
 I deliver high-performance applications using PHP & JS mostly with Laravel, Vue.js, WordPress & PrestaShop that drive real business results.
 
